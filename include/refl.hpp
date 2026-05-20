@@ -25,6 +25,7 @@
 
 #include <stddef.h> // size_t
 #include <cstring>
+#include <cstdint>
 #include <array>
 #include <utility> // std::move, std::forward
 #include <optional>
